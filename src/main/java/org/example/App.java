@@ -4,7 +4,7 @@ package org.example;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
 
     public int getSum(int a, int b){
