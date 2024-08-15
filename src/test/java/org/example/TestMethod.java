@@ -19,6 +19,6 @@ public class TestMethod {
     public void testNotCorrect(){
         App app = new App();
         int sum = app.getSum(2, 2);
-        Assert.assertTrue(sum==5);
+        Assert.assertTrue(sum==4);
     }
 }
