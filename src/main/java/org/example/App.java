@@ -6,9 +6,8 @@ package org.example;
  */
 public class App
 {
-
     public int getSum(int a, int b){
-        return a+b+10;
+        return a+b;
     }
     
     public static void main( String[] args )
